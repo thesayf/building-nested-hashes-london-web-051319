@@ -5,7 +5,7 @@ epic_tragedy[:montague][:hero][:status] = "dead"
 
 epic_tragedy[:capulet][:heroine][:status] = "dead"
 
-epic_tragedy =
+def epic_tragedy =
 {
    :montague => {
       :patriarch => {name: "Michael Jordan", age: "53"},
